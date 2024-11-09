@@ -26,3 +26,6 @@ In this project, we leverage both VADER and a RoBERTa-based model to perform sen
 ## Naive Bayes Classifier:
 1. Building and training a Naive Bayes model on processed review data to classify sentiment based on manually labeled examples.
 2. Testing classifier accuracy and performance on the dataset.
+
+## To Download the Dataset Link: [Download the reviews.csv dataset](https://www.kaggle.com/code/robikscube/sentiment-analysis-python-youtube-tutorial?select=Reviews.csv)
+
