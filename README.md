@@ -2,7 +2,7 @@
 
 This project analyzes product reviews by employing two different sentiment analysis techniques: VADER (Valence Aware Dictionary and sEntiment Reasoner) and a fine-tuned RoBERTa model. The analysis includes visualizing the relationship between sentiment scores and product ratings and comparing sentiment results across models. The main objectives are to evaluate model performance on review text and to explore which approach provides better insights into the sentiment within customer reviews.
 
-## Project Overview
+# Project Overview
 In this project, we leverage both VADER and a RoBERTa-based model to perform sentiment analysis on product review data. This dual approach helps us understand the nuances of different sentiment analysis techniques and how they can be applied to real-world review data.
 
 # Key Features
